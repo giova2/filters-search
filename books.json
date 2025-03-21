@@ -1,0 +1,730 @@
+[
+  {
+    "author": "Gabriel García Márquez",
+    "title": "Cien años de soledad",
+    "year": 1967,
+    "country": "Colombia",
+    "pages": 471
+  },
+  {
+    "author": "George Orwell",
+    "title": "1984",
+    "year": 1949,
+    "country": "Reino Unido",
+    "pages": 328
+  },
+    {
+    "author": "Jane Austen",
+    "title": "Orgullo y prejuicio",
+    "year": 1813,
+    "country": "Reino Unido",
+    "pages": 432
+  },
+    {
+    "author": "Fiódor Dostoyevski",
+    "title": "Crimen y castigo",
+    "year": 1866,
+    "country": "Rusia",
+    "pages": 671
+  },
+    {
+    "author": "Harper Lee",
+    "title": "Matar a un ruiseñor",
+    "year": 1960,
+    "country": "Estados Unidos",
+    "pages": 281
+  },
+    {
+    "author": "J.R.R. Tolkien",
+    "title": "El Señor de los Anillos",
+    "year": 1954,
+    "country": "Reino Unido",
+    "pages": 1178
+  },
+    {
+    "author": "Leo Tolstoy",
+    "title": "Guerra y paz",
+    "year": 1869,
+    "country": "Rusia",
+    "pages": 1225
+  },
+    {
+    "author": "Herman Melville",
+    "title": "Moby Dick",
+    "year": 1851,
+    "country": "Estados Unidos",
+    "pages": 635
+  },
+    {
+    "author": "Virginia Woolf",
+    "title": "Al faro",
+    "year": 1927,
+    "country": "Reino Unido",
+    "pages": 209
+  },
+    {
+    "author": "James Joyce",
+    "title": "Ulises",
+    "year": 1922,
+    "country": "Irlanda",
+    "pages": 732
+  },
+  {
+    "author": "Franz Kafka",
+    "title": "El proceso",
+    "year": 1925,
+    "country": "Checoslovaquia",
+    "pages": 232
+  },
+  {
+    "author": "Ernest Hemingway",
+    "title": "El viejo y el mar",
+    "year": 1952,
+    "country": "Estados Unidos",
+    "pages": 127
+  },
+  {
+    "author": "William Faulkner",
+    "title": "El ruido y la furia",
+    "year": 1929,
+    "country": "Estados Unidos",
+    "pages": 326
+  },
+  {
+    "author": "Charles Dickens",
+    "title": "Grandes esperanzas",
+    "year": 1861,
+    "country": "Reino Unido",
+    "pages": 544
+  },
+  {
+    "author": "Emily Brontë",
+    "title": "Cumbres borrascosas",
+    "year": 1847,
+    "country": "Reino Unido",
+    "pages": 368
+  },
+  {
+    "author": "Albert Camus",
+    "title": "El extranjero",
+    "year": 1942,
+    "country": "Argelia",
+    "pages": 123
+  },
+  {
+    "author": "Miguel de Cervantes",
+    "title": "Don Quijote de la Mancha",
+    "year": 1605,
+    "country": "España",
+    "pages": 1000
+  },
+  {
+    "author": "Gabriel García Márquez",
+    "title": "El amor en los tiempos del cólera",
+    "year": 1985,
+    "country": "Colombia",
+    "pages": 361
+  },
+  {
+    "author": "Italo Calvino",
+    "title": "Si una noche de invierno un viajero",
+    "year": 1979,
+    "country": "Italia",
+    "pages": 260
+  },
+  {
+    "author": "Jorge Luis Borges",
+    "title": "Ficciones",
+    "year": 1944,
+    "country": "Argentina",
+    "pages": 174
+  },
+  {
+    "author": "Julio Cortázar",
+    "title": "Rayuela",
+    "year": 1963,
+    "country": "Argentina",
+    "pages": 624
+  },
+  {
+    "author": "Mario Vargas Llosa",
+    "title": "La ciudad y los perros",
+    "year": 1963,
+    "country": "Perú",
+    "pages": 448
+  },
+  {
+    "author": "Roberto Bolaño",
+    "title": "Los detectives salvajes",
+    "year": 1998,
+    "country": "Chile",
+    "pages": 607
+  },
+  {
+    "author": "Isabel Allende",
+    "title": "La casa de los espíritus",
+    "year": 1982,
+    "country": "Chile",
+    "pages": 432
+  },
+  {
+    "author": "Juan Rulfo",
+    "title": "Pedro Páramo",
+    "year": 1955,
+    "country": "México",
+    "pages": 124
+  },
+  {
+    "author": "Carlos Fuentes",
+    "title": "La región más transparente",
+    "year": 1958,
+    "country": "México",
+    "pages": 384
+  },
+  {
+    "author": "Alejo Carpentier",
+    "title": "El siglo de las luces",
+    "year": 1962,
+    "country": "Cuba",
+    "pages": 480
+  },
+  {
+    "author": "José Lezama Lima",
+    "title": "Paradiso",
+    "year": 1966,
+    "country": "Cuba",
+    "pages": 640
+  },
+  {
+    "author": "Clarice Lispector",
+    "title": "La hora de la estrella",
+    "year": 1977,
+    "country": "Brasil",
+    "pages": 88
+  },
+  {
+    "author": "João Guimarães Rosa",
+    "title": "Gran Sertón: Veredas",
+    "year": 1956,
+    "country": "Brasil",
+    "pages": 640
+  },
+  {
+    "author": "José Saramago",
+    "title": "Ensayo sobre la ceguera",
+    "year": 1995,
+    "country": "Portugal",
+    "pages": 320
+  },
+  {
+    "author": "Fernando Pessoa",
+    "title": "El libro del desasosiego",
+    "year": 1982,
+    "country": "Portugal",
+    "pages": 544
+  },
+  {
+    "author": "Mia Couto",
+    "title": "Tierra sonámbula",
+    "year": 1992,
+    "country": "Mozambique",
+    "pages": 240
+  },
+  {
+    "author": "Chinua Achebe",
+    "title": "Todo se desmorona",
+    "year": 1958,
+    "country": "Nigeria",
+    "pages": 209
+  },
+  {
+    "author": "Nadine Gordimer",
+    "title": "La hija de Burger",
+    "year": 1979,
+    "country": "Sudáfrica",
+    "pages": 361
+  },
+  {
+    "author": "Isaac Asimov",
+    "title": "Fundación",
+    "year": 1951,
+    "country": "Estados Unidos",
+    "pages": 255
+  },
+  {
+    "author": "Frank Herbert",
+    "title": "Dune",
+    "year": 1965,
+    "country": "Estados Unidos",
+    "pages": 412
+  },
+  {
+    "author": "Ursula K. Le Guin",
+    "title": "La mano izquierda de la oscuridad",
+    "year": 1969,
+    "country": "Estados Unidos",
+    "pages": 304
+  },
+  {
+    "author": "Arthur C. Clarke",
+    "title": "2001: Una odisea espacial",
+    "year": 1968,
+    "country": "Reino Unido",
+    "pages": 221
+  },
+  {
+    "author": "Philip K. Dick",
+    "title": "¿Sueñan los androides con ovejas eléctricas?",
+    "year": 1968,
+    "country": "Estados Unidos",
+    "pages": 210
+  },
+  {
+    "author": "William Gibson",
+    "title": "Neuromante",
+    "year": 1984,
+    "country": "Estados Unidos",
+    "pages": 271
+  },
+  {
+    "author": "Neal Stephenson",
+    "title": "Snow Crash",
+    "year": 1992,
+    "country": "Estados Unidos",
+    "pages": 468
+  },
+  {
+    "author": "Douglas Adams",
+    "title": "Guía del autoestopista galáctico",
+    "year": 1979,
+    "country": "Reino Unido",
+    "pages": 224
+  },
+  {
+    "author": "J.R.R. Tolkien",
+    "title": "El hobbit",
+    "year": 1937,
+    "country": "Reino Unido",
+    "pages": 310
+  },
+  {
+    "author": "George R.R. Martin",
+    "title": "Juego de tronos",
+    "year": 1996,
+    "country": "Estados Unidos",
+    "pages": 694
+  },
+  {
+    "author": "Patrick Rothfuss",
+    "title": "El nombre del viento",
+    "year": 2007,
+    "country": "Estados Unidos",
+    "pages": 662
+  },
+  {
+    "author": "Brandon Sanderson",
+    "title": "El camino de los reyes",
+    "year": 2010,
+    "country": "Estados Unidos",
+    "pages": 1250
+  },
+  {
+    "author": "Neil Gaiman",
+    "title": "American Gods",
+    "year": 2001,
+    "country": "Reino Unido",
+    "pages": 465
+  },
+  {
+    "author": "Terry Pratchett",
+    "title": "Mort",
+    "year": 1987,
+    "country": "Reino Unido",
+    "pages": 373
+  },
+  {
+    "author": "China Miéville",
+    "title": "La ciudad y la ciudad",
+    "year": 2009,
+    "country": "Reino Unido",
+    "pages": 312
+  },
+  {
+    "author": "Ted Chiang",
+    "title": "La historia de tu vida",
+    "year": 1998,
+    "country": "Estados Unidos",
+    "pages": 224
+  },
+  {
+    "author": "Ken Liu",
+    "title": "El zoo de papel",
+    "year": 2016,
+    "country": "Estados Unidos",
+    "pages": 432
+  },
+  {
+    "author": "N.K. Jemisin",
+    "title": "Los cien mil reinos",
+    "year": 2010,
+    "country": "Estados Unidos",
+    "pages": 427
+  },
+  {
+    "author": "Becky Chambers",
+    "title": "El largo viaje a un pequeño planeta iracundo",
+    "year": 2014,
+    "country": "Estados Unidos",
+    "pages": 368
+  },
+  {
+    "author": "George Orwell",
+    "title": "1984",
+    "year": 1949,
+    "country": "Reino Unido",
+    "pages": 328
+  },
+  {
+    "author": "Aldous Huxley",
+    "title": "Un mundo feliz",
+    "year": 1932,
+    "country": "Reino Unido",
+    "pages": 268
+  },
+  {
+    "author": "Margaret Atwood",
+    "title": "El cuento de la criada",
+    "year": 1985,
+    "country": "Canadá",
+    "pages": 311
+  },
+  {
+    "author": "Ray Bradbury",
+    "title": "Fahrenheit 451",
+    "year": 1953,
+    "country": "Estados Unidos",
+    "pages": 158
+  },
+  {
+    "author": "Gabriel García Márquez",
+    "title": "Cien años de soledad",
+    "year": 1967,
+    "country": "Colombia",
+    "pages": 471
+  },
+  {
+    "author": "Isabel Allende",
+    "title": "La casa de los espíritus",
+    "year": 1982,
+    "country": "Chile",
+    "pages": 432
+  },
+  {
+    "author": "Haruki Murakami",
+    "title": "1Q84",
+    "year": 2009,
+    "country": "Japón",
+    "pages": 928
+  },
+  {
+    "author": "José Saramago",
+    "title": "Ensayo sobre la ceguera",
+    "year": 1995,
+    "country": "Portugal",
+    "pages": 320
+  },
+  {
+    "author": "Cormac McCarthy",
+    "title": "La carretera",
+    "year": 2006,
+    "country": "Estados Unidos",
+    "pages": 241
+  },
+  {
+    "author": "Kazuo Ishiguro",
+    "title": "Nunca me abandones",
+    "year": 2005,
+    "country": "Reino Unido",
+    "pages": 343
+  },
+  {
+    "author": "Emily St. John Mandel",
+    "title": "Estación once",
+    "year": 2014,
+    "country": "Canadá",
+    "pages": 336
+  },
+  {
+    "author": "Octavia E. Butler",
+    "title": "La parábola del sembrador",
+    "year": 1993,
+    "country": "Estados Unidos",
+    "pages": 345
+  },
+  {
+    "author": "Walter M. Miller Jr.",
+    "title": "Cántico por Leibowitz",
+    "year": 1959,
+    "country": "Estados Unidos",
+    "pages": 333
+  },
+  {
+    "author": "David Mitchell",
+    "title": "El atlas de las nubes",
+    "year": 2004,
+    "country": "Reino Unido",
+    "pages": 529
+  },
+  {
+    "author": "Gabriel García Márquez",
+    "title": "El amor en los tiempos del cólera",
+    "year": 1985,
+    "country": "Colombia",
+    "pages": 361
+  },
+  {
+    "author": "Isabel Allende",
+    "title": "Eva Luna",
+    "year": 1987,
+    "country": "Chile",
+    "pages": 302
+  },
+  {
+    "author": "Haruki Murakami",
+    "title": "Kafka en la orilla",
+    "year": 2002,
+    "country": "Japón",
+    "pages": 624
+  },
+  {
+    "author": "José Saramago",
+    "title": "El hombre duplicado",
+    "year": 2002,
+    "country": "Portugal",
+    "pages": 304
+  },
+  {
+    "author": "Yevgeny Zamiatin",
+    "title": "Nosotros",
+    "year": 1921,
+    "country": "Rusia",
+    "pages": 224
+  },
+  {
+    "author": "Philip K. Dick",
+    "title": "Ubik",
+    "year": 1969,
+    "country": "Estados Unidos",
+    "pages": 209
+  },
+    {
+    "author": "Ursula K. Le Guin",
+    "title": "Los desposeídos",
+    "year": 1974,
+    "country": "Estados Unidos",
+    "pages": 400
+  },
+  {
+    "author": "Neal Shusterman",
+    "title": "Siega",
+    "year": 2016,
+    "country": "Estados Unidos",
+    "pages": 435
+  },
+    {
+    "author": "Chuck Palahniuk",
+    "title": "El club de la lucha",
+    "year": 1996,
+    "country": "Estados Unidos",
+    "pages": 208
+  },
+  {
+    "author": "Audrey Niffenegger",
+    "title": "La mujer del viajero en el tiempo",
+    "year": 2003,
+    "country": "Estados Unidos",
+    "pages": 515
+  },
+    {
+    "author": "Jeff VanderMeer",
+    "title": "Aniquilación",
+    "year": 2014,
+    "country": "Estados Unidos",
+    "pages": 195
+  },
+  {
+    "author": "Chimamanda Ngozi Adichie",
+    "title": "Americanah",
+    "year": 2013,
+    "country": "Nigeria",
+    "pages": 477
+  },
+  {
+    "author": "Khaled Hosseini",
+    "title": "Cometas en el cielo",
+    "year": 2003,
+    "country": "Afganistán",
+    "pages": 371
+  },
+  {
+    "author": "Alice Munro",
+    "title": "Demasiada felicidad",
+    "year": 2009,
+    "country": "Canadá",
+    "pages": 305
+  },
+  {
+    "author": "Hilary Mantel",
+    "title": "En la corte del lobo",
+    "year": 2009,
+    "country": "Reino Unido",
+    "pages": 650
+  },
+  {
+    "author": "Colson Whitehead",
+    "title": "El ferrocarril subterráneo",
+    "year": 2016,
+    "country": "Estados Unidos",
+    "pages": 306
+  },
+  {
+    "author": "Elena Ferrante",
+    "title": "La amiga estupenda",
+    "year": 2011,
+    "country": "Italia",
+    "pages": 331
+  },
+  {
+    "author": "Sally Rooney",
+    "title": "Gente normal",
+    "year": 2018,
+    "country": "Irlanda",
+    "pages": 273
+  },
+  {
+    "author": "Karl Ove Knausgaard",
+    "title": "Mi lucha 1",
+    "year": 2009,
+    "country": "Noruega",
+    "pages": 448
+  },
+  {
+    "author": "Jhumpa Lahiri",
+    "title": "Tierra desacostumbrada",
+    "year": 2008,
+    "country": "Estados Unidos",
+    "pages": 333
+  },
+  {
+    "author": "David Foster Wallace",
+    "title": "La broma infinita",
+    "year": 1996,
+    "country": "Estados Unidos",
+    "pages": 1079
+  },
+  {
+    "author": "Marilynne Robinson",
+    "title": "Gilead",
+    "year": 2004,
+    "country": "Estados Unidos",
+    "pages": 247
+  },
+  {
+    "author": "Julian Barnes",
+    "title": "El sentido de un final",
+    "year": 2011,
+    "country": "Reino Unido",
+    "pages": 163
+  },
+  {
+    "author": "Richard Powers",
+    "title": "El clamor de los bosques",
+    "year": 2018,
+    "country": "Estados Unidos",
+    "pages": 502
+  },
+  {
+    "author": "Olga Tokarczuk",
+    "title": "Los errantes",
+    "year": 2007,
+    "country": "Polonia",
+    "pages": 416
+  },
+  {
+    "author": "Kazuo Ishiguro",
+    "title": "Klara y el sol",
+    "year": 2021,
+    "country": "Reino Unido",
+    "pages": 304
+  },
+  {
+    "author": "Chimamanda Ngozi Adichie",
+    "title": "Medio sol amarillo",
+    "year": 2006,
+    "country": "Nigeria",
+    "pages": 433
+  },
+  {
+    "author": "Elena Ferrante",
+    "title": "Los días del abandono",
+    "year": 2002,
+    "country": "Italia",
+    "pages": 224
+  },
+  {
+    "author": "Sally Rooney",
+    "title": "Dónde estás, mundo bello",
+    "year": 2021,
+    "country": "Irlanda",
+    "pages": 352
+  },
+  {
+    "author": "David Foster Wallace",
+    "title": "El rey pálido",
+    "year": 2011,
+    "country": "Estados Unidos",
+    "pages": 546
+  },
+  {
+    "author": "Jhumpa Lahiri",
+    "title": "El valle inesperado",
+    "year": 2016,
+    "country": "Estados Unidos",
+    "pages": 160
+  },
+  {
+    "author": "Karl Ove Knausgaard",
+    "title": "Mi lucha 6",
+    "year": 2011,
+    "country": "Noruega",
+    "pages": 608
+  },
+    {
+    "author": "Julian Barnes",
+    "title": "La única historia",
+    "year": 2018,
+    "country": "Reino Unido",
+    "pages": 224
+  },
+  {
+    "author": "Richard Powers",
+    "title": "Bewilderment",
+    "year": 2021,
+    "country": "Estados Unidos",
+    "pages": 288
+  },
+  {
+    "author": "Olga Tokarczuk",
+    "title": "Sobre los huesos de los muertos",
+    "year": 2009,
+    "country": "Polonia",
+    "pages": 288
+  },
+    {
+    "author": "Kazuo Ishiguro",
+    "title": "Los restos del día",
+    "year": 1989,
+    "country": "Reino Unido",
+    "pages": 245
+  }
+]
